@@ -5,3 +5,4 @@ This assignment about building an app to automate the creation of README files w
 Inside the Repository you can find an automatically generated sample README file named sample_README.
 To better understanding of the process I invite you to watch the following video. 
 
+![image](https://user-images.githubusercontent.com/87739510/157801832-626bcc30-ea45-44c3-be46-0709cda2b560.png)
