@@ -1,21 +1,7 @@
-# 09 Node.js Homework: Professional README Generator
+# 09 Professional README Generator
 
-Screencastify 
-liga de la demo 
+This assignment about building an app to automate the creation of README files with the purpose of saving time to programmers. The application is developed with Node.js and it is run in the terminal. It is only necessary for the user to fill out a simple questionnaire and the README file will be generated automatically.
 
-Title project TITLE OF THE READ ME 
-sections entitled Description
-Table of Contents (LINK PARA NAVERGAR EN EL READ ME FILE)
-Installation
-Usage
-License (MULTIPLE CHOICE Y SE AGREGA EL READ ME LA EXPLICACION DE QUE LICENCIA SE ESTA USANDO, TAMBINE SE AGREGA EL BADGE A LADO DEL TITULO DE READ ME FILE. 
-Contributing
-Tests
-Questions USER NAME Y LINK DE GITHUB and mail
+Inside the Repository you can find an automatically generated sample README file named sample_README.
+To better understanding of the process I invite you to watch the following video. 
 
-LIGA DEL REPOSITORIO
-Link del Video 
-Screen shots
-el vieja a traves del table contents.  
-USAR Inquirer package
-comentarios
